@@ -405,7 +405,7 @@ requests-oauthlib==1.1.0
 requests-toolbelt==0.9.1
 requests==2.23.0
 responses==0.12.1
-rich==9.2.0
+rich==12.4.4
 rsa==4.7
 s3transfer==0.3.4
 sasl==0.2.1
